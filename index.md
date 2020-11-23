@@ -16,9 +16,9 @@ My projects are listed [here]({{site.url}}/projects).
 
 ## Previous work experience
 
-**ViNotion, Netherlands**
+**ViNotion, The Netherlands**
 
-**Internship Title : License Plate Obfuscation Effect on Object Detection Performance"**. 
+**Internship Title : License Plate Obfuscation Effect on Object Detection Performance**. 
 * Implemented  FasterRCNN and SSD object detector networks with PyTorch to analyze the effects of obfuscating license plates  at different levels. Additionally, different datasets were used for training purposes and determine the robustness of using a particular object detector.
 
 **University Racing Eindhoven, The Netherlands**
