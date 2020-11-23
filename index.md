@@ -10,7 +10,9 @@ Hello there,
 
 My name is David Matos. I am currently looking for a job in computer vision area, or any other field involving the use of artificial intelligence which can be used to enhance people's lives. 
 
-I have always been up to solving problems that help society, and help put my grain of sand towards towards that. I just graduated from my MSc in Automotive Technology, with specialization in artificial intelligence topics. I look forward to keep learning every day something new, and combine it with my Mechanical Engineering background.  
+I have always been up to solving problems that help society, and help put my grain of sand towards towards that. I just graduated from my MSc in Automotive Technology, with specialization in artificial intelligence topics. I look forward to keep learning every day something new, and combine it with my Mechanical Engineering background. You can download my CV [here]({{ site.url }}/documents/David_Matos_CV_V2.pdf). 
+
+My projects are listed [here]({{site.url}}/projects).
 
 ## Previous work experience
 
@@ -51,9 +53,9 @@ I have always been up to solving problems that help society, and help put my gra
 
 
 ## Programming Skills
-Most experienced: Python, TensorFlow, PyTorch, ROS, Matlab, Git
+Proficient with: Python, TensorFlow, PyTorch, ROS, Matlab, Git, OpenCV
 
-Some experience: Docker, C++
+Familiar with: Docker, C++
 
 ## Languages
 
