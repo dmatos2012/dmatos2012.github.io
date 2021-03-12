@@ -6,10 +6,22 @@ title: "Projects"
 
 ---
 
+## Kaggle Xray Detection(Work In Progress)
+
+* Kaggle competition to detect chest x-ray anomalies. 
+
+* Intend to use the finished trained model and deploy it to mobile or the web
+
+* In this way, I can learn about other aspects of ML besides model creation/training.
+
 ## PointRCNN detections with ROS
 * Implementation of SoA object detection in the KITTI dataset with ROS. 
 
 * Detections are visualized in LiDAR and camera space using RVIZ.
+
+![](/assets/images/pointrcnn_dets.png) 
+
+
 
 [Github](https://github.com/dmatos2012/pointrcnn_detector_ros)
 
@@ -25,9 +37,20 @@ title: "Projects"
 
 * Implemented network on which we used the Synthia Dataset to do robust semantic segmentation. On there, we tested whether different data augmentation techniques such as Gamma, flip, saturation among others improved the network's performance.
 
-* Google Cloud training on CityScapes dataset
+* Google Cloud training on Synthia dataset
+
+![](/assets/images/4r_020.png) ![](/assets/images/4s_020.png) 
 
  [Paper]({{ site.url }}/documents/5AUA0_Final_Paper.pdf)  
+
+
+## KITTI Data to ROS bag
+
+ * Tool to convert raw data from the automotive KITTI dataset to a ROS bag, using the ROS PointCloudLibrary.
+
+ [Github](https://github.com/dmatos2012/cpp_kitti_2_rosbag)
+
+
 
 
 ## Kaggle Speech Recognition

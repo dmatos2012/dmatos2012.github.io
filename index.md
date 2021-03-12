@@ -2,17 +2,24 @@
 layout: single
 classes: wide
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
+excerpt: "Knowledge is power"
+header:
+  overlay_image: /assets/images/overlay_image.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
 ---
 
 Hello there, 
 
-My name is David Matos. I am currently looking for a job in computer vision area, or any other field involving the use of artificial intelligence which can be used to enhance people's lives. 
+My name is David Matos. I am currently looking for a job in computer vision , and the use of deep learning on any area. 
 
-I have always been up to solving problems that help society, and help put my grain of sand towards towards that. I just graduated from my MSc in Automotive Technology, with specialization in artificial intelligence topics. I look forward to keep learning every day something new, and combine it with my Mechanical Engineering background. You can download my CV [here]({{ site.url }}/documents/David_Matos_CV_V2.pdf). 
+I have always been up to solving problems that help society, and help put my grain of sand towards towards that. I just graduated from my MSc in Automotive Technology, with specialization in artificial intelligence topics. I look forward to keep learning every day something new, and combine it with my Mechanical Engineering background. You can download my [CV]({{ site.url }}/documents/David_Matos_CV.pdf). 
 
-My projects are listed [here]({{site.url}}/projects).
+You can also find out more about my [projects]({{site.url}}/projects).
 
 ## Previous work experience
 
@@ -43,7 +50,10 @@ My projects are listed [here]({{site.url}}/projects).
 * Improved existing 3D MOT tracking algorithm  in the cyclist class of the KITTI dataset by analyzing data association module of tracking
 * Implemented 3D MOT tracking algorithm with ROS in the TU\e autonomous vehicle.
 
+{% include video id="hCwOeBvkJSE" provider="youtube" %}
+
 [Paper]({{ site.url }}/documents/FinalThesis_Report.pdf)  
+
 
 **B.Sc. Mechanical Engineering, Florida Institute of Technology**
 
@@ -53,7 +63,7 @@ My projects are listed [here]({{site.url}}/projects).
 
 
 ## Programming Skills
-Proficient with: Python, TensorFlow, PyTorch, ROS, Matlab, Git, OpenCV
+Proficient with: Python, PyTorch, TensorFlow, ROS, Matlab, Git, OpenCV
 
 Familiar with: Docker, C++
 

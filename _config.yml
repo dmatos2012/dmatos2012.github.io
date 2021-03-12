@@ -16,9 +16,7 @@
 title: David Matos
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Website about me, David Matos. Contains my CV along with description of my personal projects.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "David Matos"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am David Matos, and I am just a normal guy trying to make life fun."
+  bio    : "Computer vision & Deep Learning. "
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -71,19 +69,16 @@ author:
     - label: "Eindhoven, Netherlands"
       icon: "fas fa-globe-europe"
       url: "https://"
-    
-  
+      
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/dmatos2012"
+
+atom_feed:
+  hide: true
+   
 
 defaults:
   # _posts
