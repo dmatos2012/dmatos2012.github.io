@@ -17,7 +17,7 @@ Hello there,
 
 My name is David Matos. I am currently looking for a job in computer vision , and the use of deep learning on any area. 
 
-I have always been up to solving problems that help society, and help put my grain of sand towards towards that. I just graduated from my MSc in Automotive Technology, with specialization in artificial intelligence topics. I look forward to keep learning every day something new, and combine it with my Mechanical Engineering background. You can download my [CV]({{ site.url }}/documents/David_Matos_CV.pdf). 
+I have always been up to solving problems that help society, and help put my grain of sand towards towards that. I just graduated from my MSc in Automotive Technology, with specialization in artificial intelligence topics. I look forward to keep learning every day something new, and combine it with my Mechanical Engineering background. You can download my [CV]({{ site.url }}/documents/David_Matos_CV_A.pdf). 
 
 You can also find out more about my [projects]({{site.url}}/projects).
 

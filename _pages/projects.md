@@ -8,11 +8,15 @@ title: "Projects"
 
 ## Kaggle Xray Detection(Work In Progress)
 
-* Kaggle competition to detect chest x-ray anomalies. 
+* Kaggle competition to detect 14 different chest x-ray anomalies
 
-* Intend to use the finished trained model and deploy it to mobile or the web
+* Train EfficientDet network and evaluate using COCO evaluation.
 
-* In this way, I can learn about other aspects of ML besides model creation/training.
+* Deployed locally using Flask, but intending to extend functionality with databases, deployment with Heroku.
+
+* In this way, I can learn about other aspects of ML besides model creation/training. Find [Github](https://github.com/dmatos2012/pytorch-flask-chest-anomaly-detection) code.
+
+![Sample demo from repo](/assets/images/demo.png)
 
 ## PointRCNN detections with ROS
 * Implementation of SoA object detection in the KITTI dataset with ROS. 
@@ -24,6 +28,14 @@ title: "Projects"
 
 
 [Github](https://github.com/dmatos2012/pointrcnn_detector_ros)
+
+## Plant Instance Segmentation
+
+* Implemented instance segmentation network Mask-RCNN to count and segment plants on a private dataset.
+
+* Evaluated model qualitatively and quantitatively using COCO evaluation.
+
+* Training performed with Google Cloud Platform
 
 ## CityScapes Semantic Segmentation
 * Implemented network on which multiple experiments were performed such as changing optimizers, using regularization and changing input images to network
