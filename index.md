@@ -15,11 +15,14 @@ header:
 
 Hello there, 
 
-My name is David Matos. I am currently looking for a job in computer vision , and the use of deep learning on any area. 
+My name is David Matos. I am currently looking for a job in deep learning area, preferably doing computer vision. 
 
-I have always been up to solving problems that help society, and help put my grain of sand towards towards that. I just graduated from my MSc in Automotive Technology, with specialization in artificial intelligence topics. I look forward to keep learning every day something new, and combine it with my Mechanical Engineering background. You can download my [CV]({{ site.url }}/documents/David_Matos_CV_A.pdf). 
+I just graduated from my MSc in Automotive Technology, with specialization in signal processing systems.  I am interested in extracting valuable information from data, particularly images,  to further enable businesses to extract the maximum out of a company process such as manufacturing,  finances or any other data-driven process.
 
-You can also find out more about my [projects]({{site.url}}/projects).
+I have worked on many deep learning projects doing classification, object detection and semantic/instance segmentation using RGB images. Additionally, I also have experience working with Point Cloud LiDAR data. For my projects/thesis, I have used Python, PyTorch, TensorFlow, OpenCV, C++, Flask.
+
+Please check my [projects]({{site.url}}/projects) for more details. You can also download my [CV]({{ site.url }}/documents/DavidMatos_Deep_Learning_CV.pdf).
+
 
 ## Previous work experience
 
@@ -65,7 +68,7 @@ You can also find out more about my [projects]({{site.url}}/projects).
 ## Programming Skills
 Proficient with: Python, PyTorch, TensorFlow, ROS, Matlab, Git, OpenCV
 
-Familiar with: Docker, C++
+Familiar with: Docker, C++, Flask, SQL
 
 ## Languages
 
