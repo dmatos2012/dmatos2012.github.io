@@ -15,60 +15,22 @@ header:
 
 Hello there, 
 
-My name is David Matos. I am currently looking for a job in deep learning area, preferably doing computer vision. 
-
-I just graduated from my MSc in Automotive Technology, with specialization in signal processing systems.  I am interested in extracting valuable information from data, particularly images,  to further enable businesses to extract the maximum out of a company process such as manufacturing,  finances or any other data-driven process.
-
-I have worked on many deep learning projects doing classification, object detection and semantic/instance segmentation using RGB images. Additionally, I also have experience working with Point Cloud LiDAR data. For my projects/thesis, I have used Python, PyTorch, TensorFlow, OpenCV, C++, Flask.
-
-Please check my [projects]({{site.url}}/projects) for more details. You can also download my [CV]({{ site.url }}/documents/DavidMatos_Deep_Learning_CV.pdf).
+My name is David Matos. I am currently working in [Track32](https://www.track32.nl/) as an Cloud/AI Software Engineer.
 
 
-## Previous work experience
+I have been recently more interested in  learning how to optimize workflows in `AI` pipelines,and how to speed up deep learning pipelines with `Python`, `Rust`, and/or `C`, rather than training deep learning myself. 
 
-**ViNotion, The Netherlands**
+Additionally, I started being interested in developing back-end for web apps, be it showing results of analysis with `SQL` queries within our AWS services, or creating the `API` interactions for internal dashboards. 
 
-**Internship Title : License Plate Obfuscation Effect on Object Detection Performance**. 
-* Implemented  FasterRCNN and SSD object detector networks with PyTorch to analyze the effects of obfuscating license plates  at different levels. Additionally, different datasets were used for training purposes and determine the robustness of using a particular object detector.
-
-**University Racing Eindhoven, The Netherlands**
-
-**Accumulator Engineer**
-
-* TU Eindhoven's Formula Student team, the perfect environment to apply theoretical knowledge, where I designed some of the accumulator internals such as brackets, mounts or any other support for PCBs, which were then 3D printed. Additionally, performed Finite Element Analysis on components to make them up to spec. Furthermore, I had the final responsibility of the Engineering Design Judging team, which defends all technical design choices made at the competition.
-
-**Fiat Chrysler Automobiles, United States**
-
-**Catalyst Development Engineer**
-
-* Responsible for resolving build issues related to powertrain to maintain build timing. Also responsible for reviewing with other powertrain engineers part requirements for each mule/proto build. Finally, develop, review and publish Bill of Materials in PDB mainframe database.
+You can check some of my [open source contributions]({{site.url}}/projects/oss-contributions), and full list of [projects]({{site.url}}/projects), along with some of the older [deep learning hobby projects]({{site.url}}/projects/dl-hobby-projects) I created earlier. 
 
 
-## Education
-**M.Sc. Automotive Engineering, Eindhoven University of Technology**
-
-**Thesis title: Analysis of multiple modality object detectors and 3D multiple object tracking**
-
-* Benchmarked object detectors based on LiDAR, Camera modalities, where I analyzed detection performance in terms of mean average precision and MOTA.
-* Improved existing 3D MOT tracking algorithm  in the cyclist class of the KITTI dataset by analyzing data association module of tracking
-* Implemented 3D MOT tracking algorithm with ROS in the TU\e autonomous vehicle.
-
-{% include video id="hCwOeBvkJSE" provider="youtube" %}
-
-[Paper]({{ site.url }}/documents/FinalThesis_Report.pdf)  
-
-
-**B.Sc. Mechanical Engineering, Florida Institute of Technology**
-
-**Senior Design Project: Design of a Formula Student car for FSAE Michigan Competition.**
-
-* Led a subteam of 5 people making sure deadlines, and all design requirements were met for the competition. Performed an finite element analysis of the suspension uprights using ANSYS workbench, along with its design in Solidworks. Also manufactured some suspension parts using lathe, milling machine and welded suspension into the chassis.
-
+You can also download my [CV]({{ site.url }}/documents/DavidMatos_Base_CV.pdf).
 
 ## Programming Skills
-Proficient with: Python, PyTorch, TensorFlow, ROS, Matlab, Git, OpenCV
+Proficient with: Python, AWS, Docker, SQL, Qt, FastAPI, Rust, Pytorch, ROS
 
-Familiar with: Docker, C++, Flask, SQL
+Familiar with: C++, C
 
 ## Languages
 
