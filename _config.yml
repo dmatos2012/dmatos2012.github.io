@@ -68,7 +68,7 @@ repository: "dmatos2012/dmatos2012.github.io"
 author:
   name   : "David Matos"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Computer vision & Deep Learning. "
+  bio    : "AI & Cloud Software Engineering"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -76,7 +76,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dmatos2012"
-    - label: "Eindhoven, Netherlands"
+    - label: "Nijmegen, Netherlands"
       icon: "fas fa-globe-europe"
       url: "https://"
       
